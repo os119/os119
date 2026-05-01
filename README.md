@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Osamah
 
-<!--
-**os119/os119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate interested in technology, problem solving, and building practical projects.
 
-Here are some ideas to get you started:
+I use GitHub to share projects I've worked on while practicing different areas of computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Java
+- SQL
+- HTML, CSS
+- Git & GitHub
+- Problem solving
+
+## Projects
+
+These projects cover different areas of computer science, such as web development, Python programming, algorithms, and more.
+
+## Contact
+
+- LinkedIn:
+- Email:
